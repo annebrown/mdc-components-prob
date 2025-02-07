@@ -1,9 +1,9 @@
 <!--------@/app.vue------------------------------------------------------------>
 <template><div>
-<!-- A11y -->
-<NuxtRouteAnnouncer />
+    <!-- A11y -->
+    <NuxtRouteAnnouncer />
 
-<NuxtPage  /> 
+    <NuxtPage /> 
 
 </div></template>
 <!--------@/app.vue------------------------------------------------------------>
